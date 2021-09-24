@@ -1,0 +1,17 @@
+Q-1)Inline functions are useful when ______
+Options
+1)Function is large with many nested loops
+2)Function has many static variables
+3)Function is small and we want to avoid function call overhead. 
+4)None of the above
+//option-3 is correct
+Solution Description
+Inline functions are used to reduce the function call overhead. Inline function is a function that is expanded in line when it is called.
+
+Q-2)Which of the following statement is correct?
+Options
+1)Only one parameter of a function can be a default parameter.
+2)Minimum one parameter of a function must be a default parameter.
+3)All the parameters of a function can be default parameters. 
+4)No parameter of a function can be default.
+//option-3 is correct
